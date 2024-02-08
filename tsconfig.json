@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "module": "nodenext",
+      "target": "ES2022",
+      "declaration": true,
+      "outDir": "./dist"
+    },
+    "include": [
+      "src/**/*"
+, "src/index.ts"    ]
+}

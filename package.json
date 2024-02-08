@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "name": "nas-logger",
+  "version": "1.0.0",
+  "description": "Logger utility",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [ "dist/*" ],
+  "keywords": [
+    "logger"
+  ],
+  "author": "David Cavar",
+  "license": "MIT"
+}
